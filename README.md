@@ -1,5 +1,6 @@
 # Akciğer Kanseri Dataset Modeli
 ![Uygulama Ekran Görüntüsü](screenshot.png)
+Kaggle dataseti görüntülemek [için](https://www.kaggle.com/datasets/akifcetin/lung-cancer-dataset-train-model/) ziyaret edebilirsiniz.
 
 Bu proje, Kaggle'dan elde edilen akciğer kanseri veri kümesi üzerinde scikit-learn ve Keras kütüphaneleri kullanılarak bir sınıflandırma modeli oluşturmayı amaçlamaktadır.
 
@@ -8,7 +9,7 @@ Kullanılan veri kümesi, X-ray görüntüleri üzerinde etiketlenmiş normal, b
 
 ## Model
 Bu proje iki farklı model kullanılarak gerçekleştirilmiştir: scikit-learn ve Keras.
-
+https://www.kaggle.com/datasets/akifcetin/lung-cancer-dataset-train-model/
 
 ## Katkılar
 Bu projeye katkıda bulunmak isterseniz, lütfen forklayın ve pull request gönderin.
